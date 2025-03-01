@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "text-is-upper-case": "^1.0.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
